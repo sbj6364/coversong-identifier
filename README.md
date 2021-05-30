@@ -41,3 +41,15 @@
 6. tempo invariant
 7. 마무리 - 1
 8. 마무리 - 2
+
+
+
+------
+
+#### Reference
+
+- [Future Skill](https://futureskill.io/)
+
+#### Editor
+
+- [**Colab**](https://colab.research.google.com/) / PyCharm
